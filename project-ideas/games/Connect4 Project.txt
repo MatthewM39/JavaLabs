@@ -1,0 +1,13 @@
+UML USE Case
+Project Sumission
+Connect 4
+
+I think programming a game of connect 4 would be fun.  There is 42 available spaces on the
+board, so a max of 21 of each color game piece will be needed.  The goal of the game is to
+have 4 colors in a row: vertically, horizontally or diagonal.  When the game starts there 
+will be a title screen for the first player to start.  It will only support a 2-player game 
+right now.  The 2nd player will have the option to choose what color.  After a Random 
+heads/tails user prompt, that player will go first.  The players will alternate turns, and 
+after each turn, a loop will check to see if there is a winner.  If there is 4 in a row,
+that player wins and the game is over.  The game will then ask to play agian, while keeping
+score. 

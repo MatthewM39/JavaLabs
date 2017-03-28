@@ -1,0 +1,6 @@
+ ------------- Lab 2 – Class Project Suggestion
+
+Grocery List Android App
+
+
+An Android app designed to send someone a grocery list. Let's say there's a family, and they send someone out to get groceries for that week. Often times, people will write down on paper what to get at the store. Well, what if you wanted to text or to send someone that grocery list, using your android phone? This application would do precisely that. This application can include a specific budget to spent under, a specific quantity of items to get, and other details used in grocery store purchasing. 

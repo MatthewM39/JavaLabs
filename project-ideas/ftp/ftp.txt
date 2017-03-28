@@ -1,0 +1,10 @@
+Idea: That we develop a -simple- FTP server. So it would require sockets etc, but those are pretty easy to understand.
+I think it would be interesting to do because you are basically coding your own server which is, to me at least, really cool.
+It should be fairly easy to do as a project, and would be cool to build upon later with a gui and other features like security.
+The user should be able to do the following:
+	Upload New Files; (I.E. and html or js file)
+	Download Files;	(For local usage, including downloading whole folders)
+	Replace Files;	(For updating files on the server)
+	Open Files Locally; (Edit them locally and, upon saving, update them on the server)
+	And Rename/Copy Files; (Rename files on the server and make copies on the server)
+All of these are things which I believe to make up the basics of an FTP server.

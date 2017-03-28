@@ -1,0 +1,15 @@
+So I had this wierd idea for a Tetris Game clone..except a Tetris game with rogue elements, such as inanimate objects either trying to 
+fill up the tetris piece space or trying to kill the player somehow.   I would call this "Ganon's Magical Tetris Challenge.
+
+Story time.
+
+So one day Ganon had finally got fed up with Link saving the land of Hyrule with the magic triforce pieces....EVERYTIME, so He gave up on his
+way of evil and retreated back to his house, hidden in the clouds, since his other house was forfeited due to non-payment of 100,000 rupees per week.
+So Ganon went into his basement and found an old arcade machine that he stole from the arcade place since he was a kid, plugged in some batteries and done,
+the machine begins to whine, and as soon as the little pieces start falling from the top, he begins to place them in random spots, only to find out that
+there are other objects that are trying to ruin his game!  Such as pots, scissors, and others, including pizza and apple pie, who murdered his dog
+on christmas eve.   So now Ganon must save the world from Ice Cream and apple pie.....by playing Tetris.   In his basement.
+
+
+As i said before, the game play remains the same....most of the time.   There is also a multiplayer mode that's unlokable by beating link's
+score of over nine thousand points.  This is just a presentation of what I have planned if this project is chosen.

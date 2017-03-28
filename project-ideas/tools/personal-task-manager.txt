@@ -1,0 +1,13 @@
+------------
+Description for UML USE Case Diagram
+
+This project is for a simple task manager program
+for a single user. They are able to either Search 
+from a list of General Tasks, such as doing homework
+or cleaning up their room, or Inputting a Specific
+task themselves. They can then Start the task, which
+starts a timer that counts the time until the user
+Completes the task. Meanwhile, the user can also view
+Statistics that show the time it took for them to 
+complete a task or the average time it takes for them
+to complete a task.

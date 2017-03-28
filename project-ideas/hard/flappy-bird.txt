@@ -1,0 +1,5 @@
+----------------
+9-9-15
+Game Overview for Lab 02
+ My project idea is a remake of the notorious game know as Flappy Bird. The player will select from three levels: easy, medium, and hard. The game consists of a miniature plane instead of a bird as well as redesigned to pipes to look like landing pads. The lower the level the less movement from the landing pads. Further along in the higher levels, more pads appear at faster rate. This feature will give the player less time to react as he or she attempts to fly through the pads. A few new features in my game will consist of  an occasional screen flash to distract the player’s focus, wider width of the pads, and a top five best high scores list.   The difference between the actual Flappy Bird and my game will be the design of the game as well as certain obstacles the player will encounter.
+

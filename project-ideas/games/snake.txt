@@ -1,0 +1,3 @@
+       The program would start of by showing the player a start menu that allowed them to select to see high score or start the game. Once selected the player would then use the arrow keys to move the snake around the window trying to eat the next mouse. If the snake gets the mouse the score is increase along with the length of the snake if the snake ever runs into itself the game ends and the games is ended. Once the player is through the player can then use the end menu to select to start game over or exit.
+	
+
